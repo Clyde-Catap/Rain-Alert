@@ -6,7 +6,7 @@ api_key = "0e7f3885637e1549e143e0c012dd5258"
 Latitude = 16.043859
 Longitude = 120.335190
 
-msg = "Bring Umbrella Dumbass"
+msg = "Bring Umbrella"
 account_sid = os.environ["account_sid"]
 auth_token = os.environ["auth_token"]
 
