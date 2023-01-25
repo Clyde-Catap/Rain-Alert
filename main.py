@@ -7,8 +7,8 @@ Latitude = 16.043859
 Longitude = 120.335190
 
 msg = "Bring Umbrella Dumbass"
-account_sid = "ACaa3a20c332f0712f3340a2b2df390002"
-auth_token = '9a44890094b856abc5ee5732f1cf0629'
+account_sid = os.environ["account_sid"]
+auth_token = os.environ["auth_token"]
 
 parameters = {
     "lat": 16.043859,
